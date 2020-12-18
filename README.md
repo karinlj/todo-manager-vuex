@@ -1,24 +1,50 @@
 # vuex-todo-manager
 
-## Project setup
+## Description
+
+Application for exploring Vue.js and Vuex.
+
+![Screenshot](/src/assets/screenshot.jpg?raw=true "Screenshot")
+
+## Prerequisites
+
+NodeJS
+
+## Installation
+
+To clone
+
+`git clone https://github.com/karinlj/todo-manager-vuex.git`
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Then use the dist folder you get.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Built With
+
+- vue.js
+- vuex
+- CSS
+
+## Author
+
+- **Karin Ljunggren** - [karinlj](https://github.com/karinlj)
+
+## Acknowledgements
+
+Thank's to:
+[ Traversy Media](https://www.youtube.com/user/TechGuyWeb)
